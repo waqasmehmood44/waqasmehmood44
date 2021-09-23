@@ -23,7 +23,7 @@ margin-bottom: 50px;
   border-radius: 100%;
   }
   h2 {
-    background-color: #8af2ef;
+    background-color: #D6D6D6;
   }
   footer {
 text-align: center;
@@ -37,7 +37,7 @@ width: 100%;
 }
 
 td, th {
-border: 1px solid #8af2ef;
+border: 1px solid #D6D6D6;
 text-align: left;
 padding: 8px;
 }
